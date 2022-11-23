@@ -1,4 +1,3 @@
-# Brujula
+# Brújula
 Brújula
 j segur ag
-miguel
